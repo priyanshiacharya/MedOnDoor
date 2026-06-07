@@ -1,4 +1,4 @@
- MedOnDoor – Community Healthcare Service Platform
+MedOnDoor – Community Healthcare Service Platform
 
 **Overview**
 
